@@ -1,2 +1,5 @@
 python 3.10
 pip3 install opencv-contrib-python==4.6.0.66
+
+https://github.com/robagar/tello-asyncio
+pip3 install tello-asyncio
