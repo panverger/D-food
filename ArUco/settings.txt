@@ -1,5 +1,9 @@
 python 3.10
 pip3 install opencv-contrib-python==4.6.0.66
 
-https://github.com/robagar/tello-asyncio
-pip3 install tello-asyncio
+# Dictionary_get is available in version 4.6.0.66 of opencv-contrib-python 
+#use DICT_ARUCO_ORIGINAL
+aruco_dict = aruco.Dictionary_get(aruco.DICT_ARUCO_ORIGINAL)
+
+# use https://chev.me/arucogen/ 
+# for Aruco marker generation and save to SVG format for printing
