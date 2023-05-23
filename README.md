@@ -13,7 +13,7 @@ D-food project για τον 5ο Διαγωνισμό Ανοικτών Τεχν�
 
 <H1>Υλοποίηση</H1>
 
-Κώδικας σε Python : https://github.com/panverger/D-food/blob/main/tello8_final.py
+Κώδικας σε Python 3.10 : https://github.com/panverger/D-food/blob/main/tello8_final.py
 
 Φάκελος με οπτικό υλικό :
 
